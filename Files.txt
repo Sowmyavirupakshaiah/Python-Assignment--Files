@@ -1,0 +1,5 @@
+Problem statment :
+
+Read and append content on files in Python 
+Take one file and read the contents on that file.
+Read file
